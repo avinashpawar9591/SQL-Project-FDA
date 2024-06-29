@@ -1,0 +1,7 @@
+Active/Approved (Value 1): This value may indicate that the pharmaceutical product is currently active on the market and has received regulatory approval.
+
+Pending/Under Review (Value 2): A value of 2 might signify that the product is under regulatory review or is pending approval for marketing.
+
+Withdrawn/Discontinued (Value 3): The value 3 could represent that the marketing of the product has been withdrawn or discontinued. This could be due to various reasons such as safety concerns, lack of efficacy, or voluntary withdrawal by the manufacturer.
+
+Rejected/Not Approved (Value 4): A value of 4 might indicate that the regulatory authorities have rejected the marketing application, and the product has not been approved for marketing.
